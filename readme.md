@@ -8,7 +8,7 @@ You are running this at your own risk. I AM NOT RESPONSIBLE FOR ANYTHING.
 
 Evasion of Malware Detection
 
-This project uses a technique called LOLBIN (Living on the land Binary) method to evade most antimalware systems.
+This project uses a technique called LOLBIN (Living off the land Binary) method to evade most antimalware systems.
 
 
 This project was developed by Sabarisrinivas Venkatesan (A CSE Sophomore @ NITT) to analyse and study the payload execution and detection methods of malwares.
